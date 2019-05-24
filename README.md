@@ -55,3 +55,29 @@ Albums can contain any number of kitten pictures.
 ### Comments
 
 Registered users can post comments under public or restricted album photos.
+
+## Subprojects
+
+### Instakittens Data Generator
+
+JSON database generator for the Instakittens project
+
+https://github.com/fredericbonnet/instakittens-data-generator
+
+### Instakittens JSON Server
+
+Mock REST API server for the Instakittens project
+
+https://github.com/fredericbonnet/instakittens-json-server
+
+### Instakittens React administration interface
+
+React-admin application for the Instakittens project
+
+https://github.com/fredericbonnet/instakittens-react-admin
+
+### Instakittens Ionic 4/Angular client application
+
+Ionic 4/Angular application for the Instakittens project
+
+https://github.com/fredericbonnet/instakittens-ionic4
